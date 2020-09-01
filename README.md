@@ -1,4 +1,3 @@
-## Welcome to DootWorld!
-
-#This is a work in progress....come back soon!
-
+##This is confusing.
+#I am trying though.
+[This might help you!]https://www.youtube.com/watch?v=fC7oUOUEEi4
